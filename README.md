@@ -2,18 +2,15 @@ Hi, I'm David
 
 I'm a QA Software Test Engineer certified by ISTQB, with hands-on experience in manual testing, bug reporting, and test case design.  
 
- What you'll find here:
-- Test case examples (Excel and Markdown formats)
-- Sample bug reports and issue tracking
-- SQL query practice for database testing
-- Summary reports from simulated projects
-- QA documentation from my training and projects
+ What you'll find here:                                          
+These are SQL queries that I wrote in my course.                
+All the queries I executed on the database used at John Bryce College called 'Northwind'        
+For the SQL learning we used Microsoft's SQL Server (T-SQL).
 
- Skills & Tools:
-- Manual Testing  
-- Test Design & Execution  
-- Bug Reporting  
-- Jira  
-- SQL (MySQL)  
-- Windows & Linux OS  
-- ISTQB Foundation Level  
+
+ Queries Types:
+- scalar functions 
+- group aggregates
+- Subqueries
+- inner join
+- left/right join    
